@@ -10,3 +10,7 @@ An andvanced tool to help marching bands evyerwhere perform better. This project
 
 # Person Detection
 
+This project utlizes a fine tuned version of YOLOv8 trained on band specific uniforms for better accuracy. 
+Sample frame:
+
+F1:
