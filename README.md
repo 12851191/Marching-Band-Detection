@@ -16,6 +16,7 @@ This project utlizes a fine tuned version of YOLOv8 trained on band specific uni
 
 ![image](https://github.com/user-attachments/assets/12a738a5-04b4-47a2-ad34-7ad724231a12)
 
-# Confusion Matrix:
+**Confusion Matrix:**
+
 ![image](https://github.com/user-attachments/assets/87676c82-f47a-4668-86fd-ffae3e35ff94)
 
