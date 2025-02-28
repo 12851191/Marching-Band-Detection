@@ -12,7 +12,7 @@ An andvanced tool to help marching bands evyerwhere perform better. This project
 
 This project utlizes a fine tuned version of YOLOv8 trained on band specific uniforms for better accuracy. 
 
-# Sample frame:
+**Sample frame:**
 ![image](https://github.com/user-attachments/assets/12a738a5-04b4-47a2-ad34-7ad724231a12)
 
 # Confusion Matrix:
