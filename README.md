@@ -20,3 +20,16 @@ This project utlizes a fine tuned version of YOLOv8 trained on band specific uni
 
 ![image](https://github.com/user-attachments/assets/87676c82-f47a-4668-86fd-ffae3e35ff94)
 
+# Keypoint Detection:
+
+In order to create a top down view, this project hilights keypoints on the field to use as a base to transform 3D coordinates onto a 2D screen.
+
+**Sample Frame:**
+
+![image](https://github.com/user-attachments/assets/d68f91c9-d0bd-4ffe-95c3-52da9f1afbce)
+
+Through this, a homography matrix can be used to create the 2D field:
+
+**Sample Frame:**
+![image](https://github.com/user-attachments/assets/2a408f7c-a40f-4285-983d-e60789cc1595)
+
