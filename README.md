@@ -1,4 +1,4 @@
-# Marching-Band-Detection
+# Marching-Band-Drill-Detection
 
 An andvanced tool to help marching bands evyerwhere perform better. This project allows users to enter videos taken on a smartphone camera and turn it into a top down view for better performance analysis. 
 
