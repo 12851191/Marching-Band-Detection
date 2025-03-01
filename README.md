@@ -34,5 +34,10 @@ Through this, a homography matrix can be used to create the 2D field:
 ![image](https://github.com/user-attachments/assets/d36fa19e-b6c2-4ffb-8ed7-1244da2daba8)
 
 
-![image](https://github.com/user-attachments/assets/2a408f7c-a40f-4285-983d-e60789cc1595)
+# Accurate Dots for drill analysis
 
+Combining the aforementioned features nets the end product. A readable 2D map with every dot representing the performers' positions.
+
+**Sample Frame:**
+
+![image](https://github.com/user-attachments/assets/8ab8b998-9021-4f11-aaef-fb9c231a1b6b)
