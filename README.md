@@ -36,7 +36,7 @@ Through this, a homography matrix can be used to create the 2D field:
 
 # Accurate Dots for drill analysis
 
-Combining the aforementioned features nets the end product. A readable 2D map with every dot representing the performers' positions.
+Combining the aforementioned features nets the end product: a readable 2D map with every dot representing the performers' positions.
 
 **Sample Frame:**
 
