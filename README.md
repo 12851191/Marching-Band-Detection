@@ -1,12 +1,12 @@
-# Marching-Band-Drill-Detection
+# Marching Band Drill Detection
 
-An andvanced tool to help marching bands evyerwhere perform better. This project allows users to enter videos taken on a smartphone camera and turn it into a top down view for better performance analysis. 
+An advanced tool to help marching bands everywhere perform better. This project allows users to enter videos taken on a smartphone camera and turn it into a top down view for better performance analysis. 
 
 # Key Features
 
 - Person Detection
-- Keypoint Detection and top down field view
-- Accurate Dots for drill analysis
+- Keypoint Detection and Top Down Field View
+- Accurate Dots for Drill analysis
 
 # Person Detection
 
@@ -34,7 +34,7 @@ Through this, a homography matrix can be used to create the 2D field:
 ![image](https://github.com/user-attachments/assets/d36fa19e-b6c2-4ffb-8ed7-1244da2daba8)
 
 
-# Accurate Dots for drill analysis
+# Accurate Dots
 
 Combining the aforementioned features nets the end product: a readable 2D map with every dot representing the performers' positions.
 
